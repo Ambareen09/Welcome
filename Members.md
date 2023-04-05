@@ -306,3 +306,9 @@ __Country__: India
 __About__: Namaste, I am 3rd year Computer science student at Arya College of Engineering and IT. I like blogging, problem solving, learning and exploring new stuff. I am looking forward to contribute more and do good to society. I believe that Life is learning and learning is life and one should be positive with things around them.
 __Tech Stack__: C, Java, Python, Git, Front-End developer(MERN stack), ReactJs, MySQL, Google Cloud Platform(beginner), AWS, VS Code, Data Science Enthusiast
 __Social Handles__: [Twitter](https://twitter.com/ssaumyaa_7) | [GitHub](https://github.com/ssaumyaa7) | [Email](mailto:saumya4799@gmail.com) | [Instagram](https://www.instagram.com/ssaumyaa_7) | [LinkedIn](https://www.linkedin.com/in/ssaumyaa7/)  
+
+- __Name__: Ambareen Azam
+__Country__: India  
+__About__:I am a Final Undergrad majoring in Computer Science, open to all new opportunities to learn and grow in software development domain.I am an avid Open source contributor and have been making small contributions in various open source projects and organisations throughout my college years.
+__Tech Stack__: Cpp, Javascript, Django, MERN
+__Social Handles__: [Twitter](https://twitter.com/AzamAmbareen) | [GitHub](https://github.com/Ambareen09) | [Email](mailto:ambubushra@gmail.com) | [Instagram](https://www.instagram.com/azam_ambareen) | [LinkedIn](https://www.linkedin.com/in/ambareen-azam/)  
